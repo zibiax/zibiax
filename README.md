@@ -6,6 +6,7 @@
 </div>
 
 <br>
+<br>
   
 <div id="badges" align="left">
 <a href ="https://www.linkedin.com/in/martin-evenbom-896a901a3/">
