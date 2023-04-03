@@ -7,9 +7,9 @@
 
 <div id="badges" align="left">
 <a href ="https://www.linkedin.com/in/martin-evenbom-896a901a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<a href="mailto:martin.evenbom@gmail.com"><img src="https://img.shields.io/badge/-zibiax-D14836?style=flat&logo=Gmail&logoColor=black"/></a>
-  <img src"
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+<a href="mailto:martin.evenbom@gmail.com">
+<img src="https://img.shields.io/badge/-zibiax-D14836?style=flat&logo=Gmail&logoColor=black"/></a>
 </div>
 
 
