@@ -16,7 +16,7 @@
 
 
 <div align=center>
-  <h1 align="center"> :fire: My Stats : </h1>
+  <h1 align="center"> :gear: My Stats : </h1>
         <br>
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=zibiax&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"             alt="GitHub Stats" height="200" />
