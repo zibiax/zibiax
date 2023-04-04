@@ -46,7 +46,7 @@
   <h3 align="center"> :gear: My Stats : </h3>
         <br>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=zibiax&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"             alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=zibiax&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark&hide=stars"             alt="GitHub Stats" height="200" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zibiax&show_icons=true&locale=en&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="zibiax" width="500"               height="200"/>
         <br>
