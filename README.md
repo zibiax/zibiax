@@ -34,6 +34,7 @@
   <img src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
+<br>
 
 <div align=center>
   <h1 align="center"> :gear: My Stats : </h1>
