@@ -11,7 +11,7 @@
 
 <br>
 <br>
-### Hom to reach me
+## How to reach me
 <div id="badges" align="left">
 <a href ="https://www.linkedin.com/in/martin-evenbom-896a901a3/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
