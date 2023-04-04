@@ -1,7 +1,6 @@
 <h1 align="center"> Hello there :wave: :fire: </h1>
 
 <br>
-<br>
 
 <div id="header" align="center">
   <h3> Aspiring Backend-developer </h3>
