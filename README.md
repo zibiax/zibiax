@@ -18,8 +18,9 @@
 <a href="mailto:martin.evenbom@gmail.com"><img src="https://img.shields.io/badge/-zibiax-D14836?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 </div>
 
+---
+
 <br>
-  
 ### :hammer_and_wrench: Languages and Tools
 
 <br>
@@ -35,6 +36,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 <br>
 
