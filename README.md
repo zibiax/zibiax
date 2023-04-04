@@ -15,8 +15,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a href="mailto:martin.evenbom@gmail.com"><img src="https://img.shields.io/badge/-zibiax-D14836?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 </div>
+---
+<br>
   
 ### :hammer_and_wrench: Languages and Tools
+
+<br>
   
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
