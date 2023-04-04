@@ -1,7 +1,5 @@
 <h1 align="center"> Hello there :wave: :fire: </h1>
 
-<br>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zibiax&style=flat-square&color=blue" alt=""></p>
 
 <div id="header" align="center">
