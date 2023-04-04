@@ -2,6 +2,8 @@
 
 <br>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+
 <div id="header" align="center">
   <h3> Aspiring Backend-developer </h3>
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47a8vp99b5y0x7ubpyeue3gv4woeuebxwhurn7j1uc&rid=giphy.gif&ct=g"
