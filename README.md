@@ -12,7 +12,7 @@
 <br>
 <br>
 
-  <h3 align="left"> How to reach me</h3>
+  <h3 align="left"> Reach out</h3>
 
 <div id="badges" align="left">
 <a href ="https://www.linkedin.com/in/martin-evenbom-896a901a3/">
