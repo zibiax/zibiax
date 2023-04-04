@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=zibiax&style=flat-square&color=blue" alt=""></p>
 
 <div id="header" align="center">
   <h3> Aspiring Backend-developer </h3>
