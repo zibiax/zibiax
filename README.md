@@ -20,7 +20,7 @@
 
 <br>
 
-### :gear: Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <br>
   
