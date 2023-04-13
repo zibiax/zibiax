@@ -1,11 +1,11 @@
 <h1 align="center">Hello visitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<div id="header" align="center">
+<div id="header">
   <a href align="left" ="https://www.linkedin.com/in/martin-evenbom-896a901a3/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a href="mailto:martin.evenbom@gmail.com" align="left"><img src="https://img.shields.io/badge/-email me-D14836?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
   <h3> Aspiring Backend-developer </h3>
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47a8vp99b5y0x7ubpyeue3gv4woeuebxwhurn7j1uc&rid=giphy.gif&ct=g" width="400" height="300">
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47a8vp99b5y0x7ubpyeue3gv4woeuebxwhurn7j1uc&rid=giphy.gif&ct=g" width="400" height="300" align"center">
 <!--  <div id="badges" align="left">
 <a href align="left" ="https://www.linkedin.com/in/martin-evenbom-896a901a3/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
