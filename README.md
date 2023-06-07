@@ -4,14 +4,14 @@
   <a href align="left" ="https://www.linkedin.com/in/martin-evenbom-896a901a3/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="mailto:martin.evenbom@gmail.com" align="left"><img src="https://img.shields.io/badge/-email me-D14836?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
-  <h4 align="center"> Software Developer </h3>
+  <h3 align="center"> Software Developer </h3>
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478fo1o7mfhumsry6utvay00x93d8axlemppxonk91&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" height="300" width="400"/>&nbsp;
 </div>
 
 <br>
 <br>
 
----
+
 
 <br>
 
