@@ -30,6 +30,7 @@
   <img src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" title="Tmux" alt="Tmux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Py" width="40" height="40"/>&nbsp;
 </div>
 
 ---
