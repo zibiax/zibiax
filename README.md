@@ -45,5 +45,5 @@
         <br>
 <!--        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zibiax&show_icons=true&locale=en&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="zibiax" width="500"               height="200"/> -->
         <br>
-        <img src="https://streak-stats.demolab.com/?user=zibiax&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" /> -->
+<!--        <img src="https://streak-stats.demolab.com/?user=zibiax&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" /> -->
   </div>
