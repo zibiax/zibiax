@@ -36,7 +36,7 @@
 ---
 
 <br>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?zibiax=DenverCoder1&theme=dark)]
 <div align=center>
   <h2 align="center"> :gear: My Stats : </h3>
         <br>
