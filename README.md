@@ -42,7 +42,6 @@
 
 <div align="center">
   <h2> 📊 My Stats : </h2>
-</div>
       <br>
       <br>  
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zibiax&hide=stars,issues&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"             alt="GitHub Stats" height="200" />
