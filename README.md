@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="mailto:martin.evenbom@gmail.com" align="left">
   <img src="https://img.shields.io/badge/-email me-D14836?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
-  <h2 align="center"> Software Developer </h3>
+  <h3 align="center"> Software Developer </h3>
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478fo1o7mfhumsry6utvay00x93d8axlemppxonk91&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" height="300" width="400"/>&nbsp;
 </div>
 
@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <h2> 📊 My Stats : </h2>
+  <h3> 📊 My Stats : </h3>
       <br>
       <br>  
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zibiax&hide=stars,issues&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"             alt="GitHub Stats" height="200" />
