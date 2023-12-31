@@ -9,7 +9,6 @@
   <h3 align="center"> Software Developer </h3>
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478fo1o7mfhumsry6utvay00x93d8axlemppxonk91&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" height="300" width="400"/>&nbsp;
 </div>
-
 <br>
 
 
