@@ -1,7 +1,7 @@
 # Martin Evenbom  
 **Junior Software Developer**  
 
-📍 Astrakangatan 13, 16552, Hässelby  
+📍 Stockholm, Sweden
 📞 (+46) 0728739793  
 📧 [martin.evenbom@gmail.com](mailto:martin.evenbom@gmail.com)  
 🔗 [Portfolio](https://evenbom.se/) | [GitHub](http://github.com/zibiax) | [LinkedIn](https://www.linkedin.com/in/martin-evenbom/)  
