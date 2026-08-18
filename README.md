@@ -29,7 +29,7 @@
   <img src="https://github.com/zibiax/zibiax/blob/main/icon_gif/markdown.png?raw=true" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSsE4cI63YJbkTl_a53Q6PLK8bKWz8eKHBICQ08ZujXKIhzuun24gkCjh1Ktbia5gk8M&usqp=CAU" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" title="Github" alt="Github" width="40" height="40"/>&nbsp; -->
   <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" title="Tmux" alt="Tmux" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
@@ -49,12 +49,13 @@
 
 
 <br>
-
+<!--
 <div align="center">
   <h3> 📊 My Stats : </h3>
       <br>
       <br>  
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zibiax&hide=stars,issues&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"             alt="GitHub Stats" height="200" />
-       <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zibiax&show_icons=true&locale=en&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="zibiax" width="500" height="200"/> -->
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zibiax&show_icons=true&locale=en&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="zibiax" width="500" height="200"/> 
         <img src="https://streak-stats.demolab.com/?user=zibiax&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
   </div>
+  -->
